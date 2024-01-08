@@ -1,0 +1,7 @@
+PORT = 3000
+URL = 'http://localhost'
+MONGODB_CNN = 'mongodb://127.0.0.1:27017/dbdicom'
+SECRETPRIVATEKEY='secret'
+
+
+ 
